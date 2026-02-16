@@ -1,0 +1,14 @@
+# Core AI and API
+openai>=1.12.0
+
+# Environment and Secret Management
+python-dotenv>=1.0.1
+
+# Data Validation and Structuring (Crucial for EdTech)
+pydantic>=2.6.1
+
+# Image Handling
+Pillow>=10.2.0
+
+# Optional: For Gemini Fallback
+google-generativeai>=0.4.0
